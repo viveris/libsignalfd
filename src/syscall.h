@@ -7,7 +7,7 @@
 #endif
 
 #ifndef __NR_signalfd4
-#  define #define __NR_signalfd4 289
+#  define __NR_signalfd4 289
 #endif
 
 #endif
