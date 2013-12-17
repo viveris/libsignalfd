@@ -26,4 +26,4 @@ Makefile.in
 *.log
 *.o
 *.trs
-
+tests/test_signalfd
