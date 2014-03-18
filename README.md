@@ -1,4 +1,4 @@
-libsignalfd
+libsignalfd [![Build Status](https://travis-ci.org/viveris/libsignalfd.png?branch=master)](https://travis-ci.org/viveris/libsignalfd)
 ===========
 
 
